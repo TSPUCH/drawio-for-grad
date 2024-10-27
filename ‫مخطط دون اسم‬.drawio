@@ -7,7 +7,7 @@
         <mxCell id="cfiLcG1i9u_BO0W4fc_z-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="120" y="550" width="600" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="v-Zwyl4iBoN8FRhOQfQJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cfiLcG1i9u_BO0W4fc_z-5" target="cfiLcG1i9u_BO0W4fc_z-13">
+        <mxCell id="v-Zwyl4iBoN8FRhOQfQJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="cfiLcG1i9u_BO0W4fc_z-5" target="cfiLcG1i9u_BO0W4fc_z-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cfiLcG1i9u_BO0W4fc_z-5" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
