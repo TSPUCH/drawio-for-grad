@@ -10,11 +10,11 @@
         <mxCell id="cfiLcG1i9u_BO0W4fc_z-5" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="630" width="60" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="cfiLcG1i9u_BO0W4fc_z-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="800" width="60" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="cfiLcG1i9u_BO0W4fc_z-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="710" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cfiLcG1i9u_BO0W4fc_z-11" value="Clinics" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="790" width="60" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
