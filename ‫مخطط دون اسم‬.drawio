@@ -16,6 +16,12 @@
         <mxCell id="cfiLcG1i9u_BO0W4fc_z-12" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="720" width="60" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="cfiLcG1i9u_BO0W4fc_z-13" value="Log in&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="610" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cfiLcG1i9u_BO0W4fc_z-14" value="Register" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="665" width="140" height="55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
