@@ -278,6 +278,15 @@
         <mxCell id="6QG8E82MpiIFCZu1OyY_-117" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="6QG8E82MpiIFCZu1OyY_-115" target="6QG8E82MpiIFCZu1OyY_-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6QG8E82MpiIFCZu1OyY_-118" value="Abanded" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="770" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6QG8E82MpiIFCZu1OyY_-119" value="AbandedID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="653.6" y="470" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6QG8E82MpiIFCZu1OyY_-120" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.537;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="6QG8E82MpiIFCZu1OyY_-119" target="6QG8E82MpiIFCZu1OyY_-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
