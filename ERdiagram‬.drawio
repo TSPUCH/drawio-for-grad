@@ -269,6 +269,15 @@
         <mxCell id="6QG8E82MpiIFCZu1OyY_-114" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.93;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="6QG8E82MpiIFCZu1OyY_-112" target="6QG8E82MpiIFCZu1OyY_-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6QG8E82MpiIFCZu1OyY_-115" value="isAdopted" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="710" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6QG8E82MpiIFCZu1OyY_-116" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.979;entryY=0.537;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="6QG8E82MpiIFCZu1OyY_-115" target="6QG8E82MpiIFCZu1OyY_-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6QG8E82MpiIFCZu1OyY_-117" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="6QG8E82MpiIFCZu1OyY_-115" target="6QG8E82MpiIFCZu1OyY_-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
