@@ -201,7 +201,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6QG8E82MpiIFCZu1OyY_-87" value="Addoption" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="245" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="675" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6QG8E82MpiIFCZu1OyY_-89" value="AddoptionStatus" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="680" width="110" height="50" as="geometry" />
