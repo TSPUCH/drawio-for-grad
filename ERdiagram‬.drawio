@@ -5,19 +5,46 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6QG8E82MpiIFCZu1OyY_-2" value="Clinics" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="150" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6QG8E82MpiIFCZu1OyY_-3" value="Admin" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="630" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6QG8E82MpiIFCZu1OyY_-4" value="User" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="130" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6QG8E82MpiIFCZu1OyY_-7" value="PetOwner" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="380" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6QG8E82MpiIFCZu1OyY_-8" value="Pet" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="680" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6QG8E82MpiIFCZu1OyY_-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6QG8E82MpiIFCZu1OyY_-13" value="Name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="360" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6QG8E82MpiIFCZu1OyY_-14" value="Age" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="440" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6QG8E82MpiIFCZu1OyY_-16" value="PhoneNumber" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="490" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6QG8E82MpiIFCZu1OyY_-17" value="Email" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="460" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6QG8E82MpiIFCZu1OyY_-19" value="Address" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="500" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6QG8E82MpiIFCZu1OyY_-20" value="Name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="30" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6QG8E82MpiIFCZu1OyY_-21" value="PhoneNumber" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="10" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6QG8E82MpiIFCZu1OyY_-22" value="Email" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="10" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6QG8E82MpiIFCZu1OyY_-23" value="Address" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
