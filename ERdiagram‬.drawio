@@ -134,7 +134,7 @@
         <mxCell id="6QG8E82MpiIFCZu1OyY_-54" value="Pet" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.frame;dx=10;whiteSpace=wrap;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="560" y="430" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6QG8E82MpiIFCZu1OyY_-59" value="Has" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="6QG8E82MpiIFCZu1OyY_-59" value="has" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="370" y="435" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6QG8E82MpiIFCZu1OyY_-60" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="6QG8E82MpiIFCZu1OyY_-59" target="6QG8E82MpiIFCZu1OyY_-54">
@@ -202,6 +202,15 @@
         </mxCell>
         <mxCell id="6QG8E82MpiIFCZu1OyY_-87" value="Addoption" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="245" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6QG8E82MpiIFCZu1OyY_-88" value="PetType" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="650" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6QG8E82MpiIFCZu1OyY_-89" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="730" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6QG8E82MpiIFCZu1OyY_-90" value="Age" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="770" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
