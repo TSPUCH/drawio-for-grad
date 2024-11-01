@@ -260,8 +260,8 @@
         <mxCell id="6QG8E82MpiIFCZu1OyY_-110" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.631;entryY=0.954;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="6QG8E82MpiIFCZu1OyY_-107" target="6QG8E82MpiIFCZu1OyY_-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6QG8E82MpiIFCZu1OyY_-111" value="Provide" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="130" width="90" height="70" as="geometry" />
+        <mxCell id="6QG8E82MpiIFCZu1OyY_-112" value="Manage" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="150" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
