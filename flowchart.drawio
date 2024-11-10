@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1518" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1613" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -131,29 +131,21 @@
         <mxCell id="ajQj_bRssY-FuSpLgV53-53" value="&#xa;Choose Date and Time Slot&#xa;&#xa;" style="whiteSpace=wrap;html=1;dashed=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1105" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ajQj_bRssY-FuSpLgV53-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ajQj_bRssY-FuSpLgV53-55" target="ajQj_bRssY-FuSpLgV53-57" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ajQj_bRssY-FuSpLgV53-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ajQj_bRssY-FuSpLgV53-55" target="j0oSwvHRQpT-TWWYuUix-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1497.6499999999996" y="929.9999999999998" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ajQj_bRssY-FuSpLgV53-55" value="&#xa;Confirm Appointment&#xa;&#xa;" style="whiteSpace=wrap;html=1;dashed=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1305" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ajQj_bRssY-FuSpLgV53-57" value="Receive Confirmation Notification" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1485" y="895" width="110" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="ajQj_bRssY-FuSpLgV53-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ajQj_bRssY-FuSpLgV53-59" target="ajQj_bRssY-FuSpLgV53-64" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ajQj_bRssY-FuSpLgV53-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ajQj_bRssY-FuSpLgV53-59" target="j0oSwvHRQpT-TWWYuUix-0" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="897.6499999999996" y="1099.9999999999998" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ajQj_bRssY-FuSpLgV53-59" value="Submit Adoption Request" style="whiteSpace=wrap;html=1;dashed=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="705" y="1070" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ajQj_bRssY-FuSpLgV53-61" value="&#xa;Receive Adoption Confirmation Notification&#xa;&#xa;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1040" y="1065" width="130" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="ajQj_bRssY-FuSpLgV53-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ajQj_bRssY-FuSpLgV53-64" target="ajQj_bRssY-FuSpLgV53-61" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ajQj_bRssY-FuSpLgV53-64" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Receive contact with surrender&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="885" y="1060" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ajQj_bRssY-FuSpLgV53-67" value="&#xa;Start Live Chat Session&#xa;&#xa;" style="whiteSpace=wrap;html=1;dashed=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1035" y="770" width="120" height="60" as="geometry" />
@@ -219,6 +211,18 @@
         </mxCell>
         <mxCell id="ajQj_bRssY-FuSpLgV53-87" value="&lt;br&gt;View Pet Adoption Status?&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="1390" width="141.5" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="j0oSwvHRQpT-TWWYuUix-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j0oSwvHRQpT-TWWYuUix-0" target="j0oSwvHRQpT-TWWYuUix-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j0oSwvHRQpT-TWWYuUix-0" value="Receive contact with surrender" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;dashed=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" y="1070" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j0oSwvHRQpT-TWWYuUix-2" value="Receive Adoption Confirmation Notification" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;dashed=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1120" y="1070" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j0oSwvHRQpT-TWWYuUix-5" value="Receive Confirmation Notification" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;dashed=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1490" y="900" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
